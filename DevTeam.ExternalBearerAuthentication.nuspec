@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DevTeam.Auth.ExternalBearerAuthentication</id>
+    <version>1.0.0</version>
+    <title>External Bearer Authentication</title>
+    <authors>Dev Team Inc.</authors>
+    <owners>Dev Team Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bearer Authentication for external OAuth services.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>OAuth Bearer Authentication</tags>
+    <dependencies>
+      <dependency id="DevTeam.Auth.BearerAuthentication" version="1.0.0" />
+      <dependency id="DevTeam.Auth.BearerAuthenticationCore" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
